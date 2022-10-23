@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 40acf53d8719be144901dd76b945687c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8045200025129226912
+    second: ThickWallsAndFloor_0
+  - first:
+      213: 8291633914960122369
+    second: ThickWallsAndFloor_1
+  - first:
+      213: 6932117538718359088
+    second: ThickWallsAndFloor_2
+  - first:
+      213: -8644203868029355360
+    second: ThickWallsAndFloor_3
+  - first:
+      213: 4058966123370812090
+    second: ThickWallsAndFloor_4
+  - first:
+      213: 6734673787799975486
+    second: ThickWallsAndFloor_5
+  - first:
+      213: 6578102582539000418
+    second: ThickWallsAndFloor_6
+  - first:
+      213: 2915599293888978217
+    second: ThickWallsAndFloor_7
+  - first:
+      213: 7131211656946568998
+    second: ThickWallsAndFloor_8
+  - first:
+      213: -1977036256833880823
+    second: ThickWallsAndFloor_9
+  - first:
+      213: -3710174433601983865
+    second: ThickWallsAndFloor_10
+  - first:
+      213: 3819435946155593875
+    second: ThickWallsAndFloor_11
+  - first:
+      213: -3791915819515110268
+    second: ThickWallsAndFloor_12
+  - first:
+      213: 8219065641016923515
+    second: ThickWallsAndFloor_13
+  - first:
+      213: -9059286800296965868
+    second: ThickWallsAndFloor_14
+  - first:
+      213: -5443002961745076149
+    second: ThickWallsAndFloor_15
+  - first:
+      213: 2340051335366997736
+    second: ThickWallsAndFloor_16
+  - first:
+      213: -5947302188943395694
+    second: ThickWallsAndFloor_17
+  - first:
+      213: 4794819884627294052
+    second: ThickWallsAndFloor_18
+  - first:
+      213: -6028030712369956275
+    second: ThickWallsAndFloor_19
+  - first:
+      213: 8846288532835382106
+    second: ThickWallsAndFloor_20
+  - first:
+      213: 4563345929745857570
+    second: ThickWallsAndFloor_21
+  - first:
+      213: -8854517408086145345
+    second: ThickWallsAndFloor_22
+  - first:
+      213: 5031741439800223343
+    second: ThickWallsAndFloor_23
+  - first:
+      213: 4310380821770663006
+    second: ThickWallsAndFloor_0
+  - first:
+      213: 6160566402256974849
+    second: ThickWallsAndFloor_1
+  - first:
+      213: -8880478155684125323
+    second: ThickWallsAndFloor_2
+  - first:
+      213: 45074104766728032
+    second: ThickWallsAndFloor_3
+  - first:
+      213: 5506045754118271641
+    second: ThickWallsAndFloor_4
+  - first:
+      213: -5936951247337981277
+    second: ThickWallsAndFloor_5
+  - first:
+      213: -7122897923911341735
+    second: ThickWallsAndFloor_6
+  - first:
+      213: -4558859907468373484
+    second: ThickWallsAndFloor_7
+  - first:
+      213: -1692575632743589311
+    second: ThickWallsAndFloor_8
+  - first:
+      213: -4470316531685325709
+    second: ThickWallsAndFloor_9
+  - first:
+      213: -4264513134610642160
+    second: ThickWallsAndFloor_10
+  - first:
+      213: 8023676389844384853
+    second: ThickWallsAndFloor_11
+  - first:
+      213: 3993784384062702246
+    second: ThickWallsAndFloor_12
+  - first:
+      213: -2367347907918700273
+    second: ThickWallsAndFloor_13
+  - first:
+      213: -7572206580245538552
+    second: ThickWallsAndFloor_14
+  - first:
+      213: -5589966848330464775
+    second: ThickWallsAndFloor_15
+  - first:
+      213: -2292106359701100599
+    second: ThickWallsAndFloor_16
+  - first:
+      213: -351560744709984041
+    second: ThickWallsAndFloor_17
+  - first:
+      213: 7305525169717814633
+    second: ThickWallsAndFloor_18
+  - first:
+      213: 8236378210091573220
+    second: ThickWallsAndFloor_19
+  - first:
+      213: -3969723199820751063
+    second: ThickWallsAndFloor_20
+  - first:
+      213: 1560146990028864905
+    second: ThickWallsAndFloor_21
+  - first:
+      213: -7302459037367867780
+    second: ThickWallsAndFloor_22
+  - first:
+      213: -2687546490168980663
+    second: ThickWallsAndFloor_23
+  - first:
+      213: 2931225347565377179
+    second: ThickWallsAndFloor_24
+  - first:
+      213: -8030463987749913221
+    second: ThickWallsAndFloor_25
+  - first:
+      213: -1622085823690040680
+    second: ThickWallsAndFloor_26
+  - first:
+      213: 8334724001889492007
+    second: ThickWallsAndFloor_27
+  - first:
+      213: -6447461661894049199
+    second: ThickWallsAndFloor_28
+  - first:
+      213: 6791830497244469559
+    second: ThickWallsAndFloor_24
+  - first:
+      213: -2467382110349099937
+    second: ThickWallsAndFloor_25
+  - first:
+      213: 3487300648715891818
+    second: ThickWallsAndFloor_26
+  - first:
+      213: -2465235572920072745
+    second: ThickWallsAndFloor_27
+  - first:
+      213: 8783079498865701838
+    second: ThickWallsAndFloor_28
+  - first:
+      213: -3823113342827011954
+    second: ThickWallsAndFloor_29
+  - first:
+      213: 4494678576913988504
+    second: ThickWallsAndFloor_30
+  - first:
+      213: 2904368208386720698
+    second: ThickWallsAndFloor_31
+  - first:
+      213: 2664147862780743619
+    second: ThickWallsAndFloor_32
+  - first:
+      213: 5486161175347962624
+    second: ThickWallsAndFloor_33
+  - first:
+      213: -7574884568793139011
+    second: ThickWallsAndFloor_34
+  - first:
+      213: 3467130853522862801
+    second: ThickWallsAndFloor_35
+  - first:
+      213: 1052995115134054673
+    second: ThickWallsAndFloor_36
+  - first:
+      213: 3619885483256082427
+    second: ThickWallsAndFloor_37
+  - first:
+      213: 6278365937474978600
+    second: ThickWallsAndFloor_38
+  - first:
+      213: -5425118970905847328
+    second: ThickWallsAndFloor_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959a5e1b312662d90800000000000000
+      internalID: 6578102582539000418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412d39a611dabb0c0800000000000000
+      internalID: 2915599293888978217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37407579cce36f1c0800000000000000
+      internalID: -1977036256833880823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a24f81ccb5cc6730800000000000000
+      internalID: -3791915819515110268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01edb8de9d752fd0800000000000000
+      internalID: 8219065641016923515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809d69a0c3e1ae690800000000000000
+      internalID: -9059286800296965868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54fb40258c81db30800000000000000
+      internalID: -8045200025129226912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104bbb5b08abe7550800000000000000
+      internalID: 8291633914960122369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575e4de0b2432c480800000000000000
+      internalID: 6932117538718359088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0678033d8a220a000800000000000000
+      internalID: -8644203868029355360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992744be077696c40800000000000000
+      internalID: 4058966123370812090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa7b9dbb46bb9da0800000000000000
+      internalID: 6734673787799975486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a16defd63c288e0800000000000000
+      internalID: 7131211656946568998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b8b8ff5e761d4c0800000000000000
+      internalID: -3710174433601983865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cfc515a23d95f60800000000000000
+      internalID: 3819435946155593875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f18d03b4c27c62b0800000000000000
+      internalID: -5443002961745076149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c72a92f86dc030e0800000000000000
+      internalID: 2340051335366997736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0f6968d510f1bf0800000000000000
+      internalID: -5947302188943395694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965a4be7f60726560800000000000000
+      internalID: 4794819884627294052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef9648085e7d4270800000000000000
+      internalID: -6028030712369956275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f9e0248c5b8e8c0800000000000000
+      internalID: 8846288532835382106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98db012eb61c6a510800000000000000
+      internalID: 4563345929745857570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76e8d2123478aa90800000000000000
+      internalID: -8854517408086145345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b4128d4bae3bad0800000000000000
+      internalID: 5031741439800223343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739dbe24add614e50800000000000000
+      internalID: 2931225347565377179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cfc7b1b0912cdd0800000000000000
+      internalID: -8030463987749913221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6433b7a671656030800000000000000
+      internalID: -1622085823690040680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5417cce49b9cdd0800000000000000
+      internalID: 8334724001889492007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3f7ebf444c3e970800000000000000
+      internalID: -6447461661894049199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e806db0aba291fac0800000000000000
+      internalID: -3823113342827011954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b34841a5e406e30800000000000000
+      internalID: 4494678576913988504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab304dd5f736e4820800000000000000
+      internalID: 2904368208386720698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf892ead54f8f420800000000000000
+      internalID: 2664147862780743619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a725a582c22c40800000000000000
+      internalID: 5486161175347962624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db83f7e3e9a90e690800000000000000
+      internalID: -7574884568793139011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2f6024429bd1030800000000000000
+      internalID: 3467130853522862801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11179cb6a7dfc9e00800000000000000
+      internalID: 1052995115134054673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff62150baa6c3230800000000000000
+      internalID: 3619885483256082427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823cb115e8c312750800000000000000
+      internalID: 6278365937474978600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThickWallsAndFloor_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e99cea1a0b16b4b0800000000000000
+      internalID: -5425118970905847328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ThickWallsAndFloor_21: 4563345929745857570
+      ThickWallsAndFloor_31: 2904368208386720698
+      ThickWallsAndFloor_34: -7574884568793139011
+      ThickWallsAndFloor_12: -3791915819515110268
+      ThickWallsAndFloor_27: 8334724001889492007
+      ThickWallsAndFloor_13: 8219065641016923515
+      ThickWallsAndFloor_3: -8644203868029355360
+      ThickWallsAndFloor_8: 7131211656946568998
+      ThickWallsAndFloor_19: -6028030712369956275
+      ThickWallsAndFloor_36: 1052995115134054673
+      ThickWallsAndFloor_22: -8854517408086145345
+      ThickWallsAndFloor_35: 3467130853522862801
+      ThickWallsAndFloor_25: -8030463987749913221
+      ThickWallsAndFloor_23: 5031741439800223343
+      ThickWallsAndFloor_0: -8045200025129226912
+      ThickWallsAndFloor_38: 6278365937474978600
+      ThickWallsAndFloor_7: 2915599293888978217
+      ThickWallsAndFloor_6: 6578102582539000418
+      ThickWallsAndFloor_30: 4494678576913988504
+      ThickWallsAndFloor_17: -5947302188943395694
+      ThickWallsAndFloor_11: 3819435946155593875
+      ThickWallsAndFloor_39: -5425118970905847328
+      ThickWallsAndFloor_1: 8291633914960122369
+      ThickWallsAndFloor_20: 8846288532835382106
+      ThickWallsAndFloor_18: 4794819884627294052
+      ThickWallsAndFloor_33: 5486161175347962624
+      ThickWallsAndFloor_14: -9059286800296965868
+      ThickWallsAndFloor_2: 6932117538718359088
+      ThickWallsAndFloor_29: -3823113342827011954
+      ThickWallsAndFloor_24: 2931225347565377179
+      ThickWallsAndFloor_9: -1977036256833880823
+      ThickWallsAndFloor_10: -3710174433601983865
+      ThickWallsAndFloor_37: 3619885483256082427
+      ThickWallsAndFloor_4: 4058966123370812090
+      ThickWallsAndFloor_15: -5443002961745076149
+      ThickWallsAndFloor_5: 6734673787799975486
+      ThickWallsAndFloor_26: -1622085823690040680
+      ThickWallsAndFloor_28: -6447461661894049199
+      ThickWallsAndFloor_16: 2340051335366997736
+      ThickWallsAndFloor_32: 2664147862780743619
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 353df570143731b4f89a2cc5909ab1c3
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 549956b227092674c98782df258165a7
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 41babc90db7516148babf8d670d35098
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/CrawlerIntro.unity
+    guid: 1fd2bee1444579c41a9a9efb4294d105
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/BounceIntroduction.unity
+    guid: 0071e84f016db754cafd9f15cd8ae0da
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/FlyingLevel.unity
+    guid: 540cff311dbe679499803a999234e47b
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/Labyrinth.unity
+    guid: 71bb18ed810570b4fbc64660731d2630
+  - enabled: 1
+    path: Assets/Scenes/KeyLevels/FreeTheGreen.unity
+    guid: ee797c1ca561b4e4eaee5d5e813d3648
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/HiddenTunnel.unity
+    guid: 837f2bb706c0afd4397e3398b4249bae
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/BeCareful.unity
+    guid: 00b0eba3d85405c4697e2b2f6f41522a
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/Water.unity
+    guid: 70e466bce642e5b45af38259cb4e7b09
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/WindyPlants.unity
+    guid: fe2df905040952f4ea54ced758199264
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/Pyramid.unity
+    guid: df6da860220fa024cb026b269e770f0d
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/RopeAndStoneTest.unity
+    guid: 69d34ed671fc5f34ca0256e4ae4d405c
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/InfestedWalls.unity
+    guid: e6867734b6a9dd643a0abada19c5a062
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/Flyers.unity
+    guid: 485adcb3e7534aa4ca686dd0c0a72ff1
+  - enabled: 1
+    path: Assets/Scenes/KeyLevels/Dig.unity
+    guid: d7bb52366756754479175cbe7224e849
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/BounceN'Slide.unity
+    guid: 16a1e7f75a8fb6c4ea0b2fd68c433a51
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/TeleportingBlocks.unity
+    guid: 168d8ac6a48a34a4d8114663bb243c08
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/PlatformIntroduction.unity
+    guid: 6be18665476737346bc1f03c9ad66ace
+  - enabled: 1
+    path: Assets/Scenes/BossLevels/FloodBoss.unity
+    guid: 8c2e58fc1d2b630469323f11bcfde752
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/UpShooterIntro.unity
+    guid: 6ece16601be332c43a71a19705b89114
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/AnotherBasicLevel.unity
+    guid: f2bb7dbbb47dde94696f5803f5e49c8b
+  - enabled: 1
+    path: Assets/Scenes/KeyLevels/NoReturn.unity
+    guid: 337b9bab7537bb24e808a5f1e2005ca4
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/SpikeFlight.unity
+    guid: d98c113c1bc189e458c54dbee9bc04eb
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/ClimbThroughGhosts.unity
+    guid: b12b85cae585b4841b85aec29e22fe9e
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/CannonIntroduction.unity
+    guid: 01eb044a5f884504cbdd673b0553b31b
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/AirPocketDive.unity
+    guid: 3a382d95f92deef4585116bcfac6282e
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/MakeWay.unity
+    guid: 00cdcd7fbea8d064eaac9ed3c72ac0c4
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/BasicLevel.unity
+    guid: 96049eb5f26ac604c8119eedb2234d5b
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/Jumpers.unity
+    guid: dce60d720749d4e47b1661b9b94b724b
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/DontGoSwimming.unity
+    guid: 00dd83bcab570cd4d8833415712cb90b
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/ElevatorToSlope.unity
+    guid: 8a129c4264fee5f4bb94fde5146a1ea6
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/FireAndWaterJumping.unity
+    guid: af11668b32f46f944b8e73f0d54161cc
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/DeathFromAbove.unity
+    guid: d78e0c7dc86b3224baf8d85dce9bea95
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/Portals.unity
+    guid: 322a599b2cd25264c9b9dc10c399d22c
+  - enabled: 1
+    path: Assets/Scenes/KeyLevels/CarefulWithTheRope.unity
+    guid: a0646ae0941b9974191e408d2681ab84
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/MovingCannon.unity
+    guid: 4a7c97f5f8c911f4ba53e953c6b00a83
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/BlockingBall.unity
+    guid: eb86d0635f81b934eb259677d1149741
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/SwitchQuickly.unity
+    guid: 9981de47c062af347930a71af06d6885
+  - enabled: 1
+    path: Assets/Scenes/BossLevels/SnakeBoss.unity
+    guid: 8b090e22edf208245a32167213f798bf
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/BombDrop.unity
+    guid: 74f1415443d7f1344870232e2ffe45b1
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/KillTheWaterEnemies.unity
+    guid: 5cbf0e64b84bb5445bb5ecd28138ae9e
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/4Corners.unity
+    guid: 774e00aefef7dc04494ffca7e86f7083
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/YourChoice.unity
+    guid: a8efb5aa49d28d34e93b6291b0e7a966
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/SpikeySlidey.unity
+    guid: 1096875694fae9649b795bf709d5b8d8
+  - enabled: 1
+    path: Assets/Scenes/KeyLevels/ButtonsAndDoors.unity
+    guid: dfc2a421321be5d4ea09c3f63646d95e
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/TargetPractice.unity
+    guid: 558cccb6c507827469320ec1cd664834
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/FerrisWheel.unity
+    guid: ebc2ff3093b54034a90c3b95d3f863dd
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/ThatsAlotOfPlants.unity
+    guid: e435c281f55f84c4599292b21c1d6896
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/YouShouldFlyCarefully.unity
+    guid: 0c05a2e9040096947acb8f90161f1c5d
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/ZInTheCorner.unity
+    guid: 20fcbd64173cf0948a3dfe93c09a5d86
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/DontDropIt.unity
+    guid: 9e9b43839f44010499c8d0dca22f9f03
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/Performance testing.unity
+    guid: 989592bd19608bb4f8b2815eba706a3e
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/MiddlePlatforms.unity
+    guid: be770ffd83b7c47408d85c43e19150a5
+  - enabled: 1
+    path: Assets/Scenes/KeyLevels/Patience.unity
+    guid: 5ac25152b5d716640a56966744f9aef9
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/Tight.unity
+    guid: acdd7edd55dcfd6418f9fc990828888a
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/8FlightTrack.unity
+    guid: 81cd85ef2be8b864b8372771b91c9553
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/StupidPlatforms.unity
+    guid: 80ef5034e9d0a7149a24d9a9726f1bb0
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/GhostsNFog.unity
+    guid: 0af731176b4df2a40bea7d0f127b8e86
+  - enabled: 1
+    path: Assets/Scenes/BossLevels/VomitBoss.unity
+    guid: 40582e999a308eb44a548beabb85233a
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/TeleportJump.unity
+    guid: 358968295df9cb5468524726c59ae7a6
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/NotSureFooting.unity
+    guid: 59a5976b0c0415f49b237c30257c351c
+  - enabled: 1
+    path: Assets/Scenes/EasyLevels/UseTheBalls.unity
+    guid: e09f83dbab71e0e4fa3aaa4f0673c4b3
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/X.unity
+    guid: a26cd6e678e64ed4ea48f5fd7a3cea9d
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/FlyOrJump.unity
+    guid: ffe0e80a2e65f644aa2afc3cbebdc559
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/AgainstTheWind.unity
+    guid: 48aac024d4abaeb4f894f2743fbcb283
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/CeilingCannon.unity
+    guid: f94ae98301d68dc4f9d0ad418dfa34d3
+  - enabled: 1
+    path: Assets/Scenes/KeyLevels/DangerButton.unity
+    guid: ad46fe7ce104ac3459d160f06ee52014
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/SwimForYouLife.unity
+    guid: 5c8474ab6a56b6d44bd7a94097b83db2
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/BouncyMiddleBombs.unity
+    guid: 931539fb35d15774ab9dfe1052a7be87
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/PlatformTunnels.unity
+    guid: 0e5d5f9f1703188459253404eafaa835
+  - enabled: 1
+    path: Assets/Scenes/KeyLevels/AHoleTeleport.unity
+    guid: 2bf8ec48d4c82dd40b1150ad9642fdc2
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/ChaosDownBelow.unity
+    guid: 4d7406055a6aca04f947b98a36e96343
+  - enabled: 1
+    path: Assets/Scenes/MediumLevels/Ricochet.unity
+    guid: 2b7b8f3c2083477468d19e3fd9b026a2
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/TeleportInTheWind.unity
+    guid: 40346b830d42eca478f495317f5aa18c
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/QuiteTricky.unity
+    guid: c58c76f222400dd488bbff1f1bcc0278
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/FlowersOnAPlatform.unity
+    guid: 18dbc038e36597246b7fd2c40dcd807c
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/KillerStuff.unity
+    guid: 74286ea288b0f8649aba7e44acb656b7
+  - enabled: 1
+    path: Assets/Scenes/HardLevels/GhostsAndShooters.unity
+    guid: ffcfeed0c61284f47b59f4f04d6a2522
+  - enabled: 1
+    path: Assets/Scenes/BossLevels/FinalBoss.unity
+    guid: 771c13ae3fd3166459ab060ee652af36
+  - enabled: 1
+    path: Assets/Scenes/ExtraLevels/PortalHell.unity
+    guid: 9c1ba9a396e0d794992b6fffd038f479
+  - enabled: 1
+    path: Assets/Scenes/ExtraLevels/BouncyAsFok.unity
+    guid: 584f830568f073b4f892d64bb15af051
+  - enabled: 1
+    path: Assets/Scenes/ExtraLevels/Plus.unity
+    guid: e3f7e6e7cfa549448a6e2439b0c9c7b3
+  - enabled: 1
+    path: Assets/Scenes/ExtraLevels/OneSidedPlatforms.unity
+    guid: 04342f1271b6ab14b9f95f0f11d4877c
+  - enabled: 1
+    path: Assets/Scenes/ExtraLevels/DropEm.unity
+    guid: 04744d898921b4b40a8bb445e8ffe939
+  - enabled: 1
+    path: Assets/Scenes/ExtraLevels/PrklPommit.unity
+    guid: 1d8941ccfbc680b4c87aea9cd7158acf
+  - enabled: 1
+    path: Assets/Scenes/ExtraLevels/SampleSceneV2.unity
+    guid: bcbb46166efcc3a40b3ff07c2ae827b4
+  - enabled: 1
+    path: Assets/Scenes/ExtraLevels/GREEEENN.unity
+    guid: 2017ee56a6acd294c858c0287846ae2a
+  m_configObjects: {}

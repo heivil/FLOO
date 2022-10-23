@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: b9d8a8f33dd7f0740adca42eaf21e202
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6738543214428900591
+    second: GooSheet_0
+  - first:
+      213: 1008239662863964657
+    second: GooSheet_1
+  - first:
+      213: 6168287610737424784
+    second: GooSheet_2
+  - first:
+      213: 6361607786765230032
+    second: GooSheet_3
+  - first:
+      213: 3634105176504984176
+    second: GooSheet_4
+  - first:
+      213: 7914826053357993697
+    second: GooSheet_0
+  - first:
+      213: -4457145591513623867
+    second: GooSheet_1
+  - first:
+      213: 9193446127108549063
+    second: GooSheet_2
+  - first:
+      213: 2829362648351825107
+    second: GooSheet_3
+  - first:
+      213: -5845187611032349779
+    second: GooSheet_4
+  - first:
+      213: 5893128628324251046
+    second: GooSheet_5
+  - first:
+      213: 5617851011044016093
+    second: GooSheet_5
+  - first:
+      213: 6236411679833516902
+    second: GooSheet_6
+  - first:
+      213: 2702122924254640541
+    second: GooSheet_7
+  - first:
+      213: -4931719766333604160
+    second: GooSheet_8
+  - first:
+      213: -9153312733617201513
+    second: GooSheet_9
+  - first:
+      213: -184805056535180372
+    second: GooSheet_10
+  - first:
+      213: 9160998447719714371
+    second: GooSheet_6
+  - first:
+      213: 8192576948646819145
+    second: GooSheet_7
+  - first:
+      213: 5776831835036284079
+    second: GooSheet_8
+  - first:
+      213: 2870135490673097207
+    second: GooSheet_9
+  - first:
+      213: -4600190781333838513
+    second: GooSheet_10
+  - first:
+      213: 5746475952421838191
+    second: GooSheet_11
+  - first:
+      213: -6064868551803435030
+    second: GooSheet_12
+  - first:
+      213: -8121501159520454026
+    second: GooSheet_13
+  - first:
+      213: -326299522026614300
+    second: GooSheet_14
+  - first:
+      213: -8690484861226236734
+    second: GooSheet_15
+  - first:
+      213: 1228446785015954415
+    second: GooSheet_16
+  - first:
+      213: -8562551079511083677
+    second: GooSheet_17
+  - first:
+      213: 128182296489122654
+    second: GooSheet_18
+  - first:
+      213: 5824554839668119618
+    second: GooSheet_19
+  - first:
+      213: -7643328367708964181
+    second: GooSheet_20
+  - first:
+      213: 1851406102873135129
+    second: GooSheet_21
+  - first:
+      213: -1198025719433873188
+    second: GooSheet_22
+  - first:
+      213: -2661593242258683388
+    second: GooSheet_23
+  - first:
+      213: 3885747709221034138
+    second: GooSheet_24
+  - first:
+      213: -2278609250215280960
+    second: GooSheet_25
+  - first:
+      213: 8987296817882047990
+    second: GooSheet_26
+  - first:
+      213: 1261579773878126775
+    second: GooSheet_27
+  - first:
+      213: -4760888746666494513
+    second: GooSheet_28
+  - first:
+      213: 1323345720397215796
+    second: GooSheet_29
+  - first:
+      213: -1503828169722490471
+    second: GooSheet_30
+  - first:
+      213: -3432721564681019972
+    second: GooSheet_31
+  - first:
+      213: 5773406332626587202
+    second: GooSheet_32
+  - first:
+      213: -1160624145651759874
+    second: GooSheet_33
+  - first:
+      213: -8798039346486104402
+    second: GooSheet_34
+  - first:
+      213: -5954599185112380531
+    second: GooSheet_35
+  - first:
+      213: -114711334693339488
+    second: GooSheet_36
+  - first:
+      213: 6277336739179704534
+    second: GooSheet_37
+  - first:
+      213: -1892261418181008643
+    second: GooSheet_38
+  - first:
+      213: -3429843380147370253
+    second: GooSheet_39
+  - first:
+      213: -8158427463643260499
+    second: GooSheet_11
+  - first:
+      213: 5061938082057457837
+    second: GooSheet_12
+  - first:
+      213: 7516288195373537751
+    second: GooSheet_13
+  - first:
+      213: -5777727466667810903
+    second: GooSheet_14
+  - first:
+      213: -1842810999894056300
+    second: GooSheet_15
+  - first:
+      213: -3047245313243262055
+    second: GooSheet_16
+  - first:
+      213: -6232386220118331043
+    second: GooSheet_17
+  - first:
+      213: -7654347078627254722
+    second: GooSheet_19
+  - first:
+      213: -9093936304609483632
+    second: GooSheet_20
+  - first:
+      213: 3207638590843124347
+    second: GooSheet_21
+  - first:
+      213: 1734053670507302764
+    second: GooSheet_22
+  - first:
+      213: 2911093951112148921
+    second: GooSheet_18
+  - first:
+      213: -8861642940491454884
+    second: GooSheet_23
+  - first:
+      213: -3032027869101545433
+    second: GooSheet_24
+  - first:
+      213: -3527209094610308764
+    second: GooSheet_25
+  - first:
+      213: -6596091216671838238
+    second: GooSheet_26
+  - first:
+      213: 5941161686750311993
+    second: GooSheet_28
+  - first:
+      213: 1060630562817643280
+    second: GooSheet_29
+  - first:
+      213: 2798332886622024062
+    second: GooSheet_30
+  - first:
+      213: 1399531927203436038
+    second: GooSheet_31
+  - first:
+      213: 5393415667288124323
+    second: GooSheet_27
+  - first:
+      213: -4972647504236892302
+    second: GooSheet_32
+  - first:
+      213: -5254859783561299187
+    second: GooSheet_33
+  - first:
+      213: -5931092962861722698
+    second: GooSheet_34
+  - first:
+      213: 3530746006695449256
+    second: GooSheet_35
+  - first:
+      213: 2505068045821397685
+    second: GooSheet_40
+  - first:
+      213: -7787166623133222772
+    second: GooSheet_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GooSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef8696c5c17dd60800000000000000
+      internalID: 6738543214428900591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9eefb2b8ea59f70800000000000000
+      internalID: 6168287610737424784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcd4cb865ae34720800000000000000
+      internalID: 6361607786765230032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da317ee36d8b1eea0800000000000000
+      internalID: 3634105176504984176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff85adabd96fd40800000000000000
+      internalID: 5893128628324251046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e0d381d87622f70800000000000000
+      internalID: 6236411679833516902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945b5232451e1b170800000000000000
+      internalID: 2702122924254640541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4718e62fd6b2050800000000000000
+      internalID: -4931719766333604160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9bfcaa505c4d720800000000000000
+      internalID: -9153312733617201513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45e1937bd6d820c0800000000000000
+      internalID: -184805056535180372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2d1a113b90522c0800000000000000
+      internalID: 1008239662863964657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da990cf627177ce80800000000000000
+      internalID: 5746475952421838191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da09e08cddd9f3640800000000000000
+      internalID: -6064868551803435030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d993ba6a483f4860800000000000000
+      internalID: -8121501159520454026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af5f341b7361dfa0800000000000000
+      internalID: -326299522026614300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e123c8250d66e0800000000000000
+      internalID: -8690484861226236734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99359a8588206b5d0800000000000000
+      internalID: 1228446785015954415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51beced0cd1289a0800000000000000
+      internalID: -8562551079511083677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e9fdee2eb46c590800000000000000
+      internalID: 5824554839668119618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09429b9dc19dbc180800000000000000
+      internalID: -7643328367708964181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7af907bd42d38c20800000000000000
+      internalID: 1851406102873135129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fcc0c30a8901810800000000000000
+      internalID: -1198025719433873188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7f3df5688466820800000000000000
+      internalID: 128182296489122654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56a8a552be150580800000000000000
+      internalID: -2661593242258683388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7282e19a7b21ce5d0800000000000000
+      internalID: 3885747709221034138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461b9333406dc0fc0800000000000000
+      internalID: -2278609250215280960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef633c6cf9f574a0800000000000000
+      internalID: 8987296817882047990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936b9e3931f337250800000000000000
+      internalID: -4760888746666494513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0131bae90ed18be00800000000000000
+      internalID: 1323345720397215796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7136662feca5d620800000000000000
+      internalID: -1503828169722490471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60657cc6fd22c6310800000000000000
+      internalID: -3432721564681019972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f2abce07b9dfab0800000000000000
+      internalID: 5773406332626587202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb7584edcf217b0800000000000000
+      internalID: -1160624145651759874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab2cbe49f249da40800000000000000
+      internalID: 1261579773878126775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3dec2ef5680bda0800000000000000
+      internalID: -8798039346486104402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2163159cabff030800000000000000
+      internalID: -5954599185112380531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae74eb16a6786ef0800000000000000
+      internalID: -114711334693339488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0b05a61849d1750800000000000000
+      internalID: 6277336739179704534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2e42b04465db5e0800000000000000
+      internalID: -1892261418181008643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6471b2e9fb660d0800000000000000
+      internalID: -3429843380147370253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bacd518d1ac3c220800000000000000
+      internalID: 2505068045821397685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GooSheet_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88bd55e63d6ee390800000000000000
+      internalID: -7787166623133222772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GooSheet_1: 1008239662863964657
+      GooSheet_12: -6064868551803435030
+      GooSheet_23: -2661593242258683388
+      GooSheet_36: -114711334693339488
+      GooSheet_11: 5746475952421838191
+      GooSheet_41: -7787166623133222772
+      GooSheet_17: -8562551079511083677
+      GooSheet_24: 3885747709221034138
+      GooSheet_14: -326299522026614300
+      GooSheet_13: -8121501159520454026
+      GooSheet_40: 2505068045821397685
+      GooSheet_18: 128182296489122654
+      GooSheet_20: -7643328367708964181
+      GooSheet_22: -1198025719433873188
+      GooSheet_3: 6361607786765230032
+      GooSheet_39: -3429843380147370253
+      GooSheet_28: -4760888746666494513
+      GooSheet_31: -3432721564681019972
+      GooSheet_19: 5824554839668119618
+      GooSheet_37: 6277336739179704534
+      GooSheet_2: 6168287610737424784
+      GooSheet_15: -8690484861226236734
+      GooSheet_27: 1261579773878126775
+      GooSheet_8: -4931719766333604160
+      GooSheet_0: 6738543214428900591
+      GooSheet_6: 6236411679833516902
+      GooSheet_35: -5954599185112380531
+      GooSheet_7: 2702122924254640541
+      GooSheet_29: 1323345720397215796
+      GooSheet_38: -1892261418181008643
+      GooSheet_5: 5893128628324251046
+      GooSheet_30: -1503828169722490471
+      GooSheet_26: 8987296817882047990
+      GooSheet_34: -8798039346486104402
+      GooSheet_21: 1851406102873135129
+      GooSheet_25: -2278609250215280960
+      GooSheet_16: 1228446785015954415
+      GooSheet_33: -1160624145651759874
+      GooSheet_9: -9153312733617201513
+      GooSheet_10: -184805056535180372
+      GooSheet_32: 5773406332626587202
+      GooSheet_4: 3634105176504984176
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
