@@ -8,23 +8,23 @@ public class MainMenu : MenuBase
     public GameObject _mainScreen;
     public GameObject _settingsScreen;
     public GameObject _mapScreen;
-    public StoreMenu _storeScreen;
+    //public StoreMenu _storeScreen;
     public GameObject _backButton;
-    public GameObject _storeButton;
+    //public GameObject _storeButton;
     public StoryIntro _storyIntro;
     public UpgradesScreen _upgradesScreen;
     public GameObject _upgradesButton;
     public AudioClip _menuMusic, _introMusic;
-    public GameObject _adButton;
+    //public GameObject _adButton;
     public GameObject _creditsScreen;
     public GameObject _optionsScreen;
     public Image _mainImage;
     public Sprite _morning;
-    public GameObject _adHighLight, _powerUpHighLight;
+    public GameObject _powerUpHighLight; //_adHighLight
     public GameObject _collectedGreensObj;
     private int _flasInt;
-    private bool _doFlash = true, _adHiglightChecker = false;
-    private string _iOsRewardID = "Rewarded_iOS", _androidRewardID = "Rewarded_Android"; 
+    private bool _doFlash = true; //_adHiglightChecker = false
+    //private string _iOsRewardID = "Rewarded_iOS", _androidRewardID = "Rewarded_Android"; 
 
     private void Awake()
     {
@@ -41,10 +41,10 @@ public class MainMenu : MenuBase
         GameManager.Instance._mainmenu = this;
 
         DetermineUpgradeFlash();
-        if (GameManager.Instance.SavedGreens < 10)
+        /*if (GameManager.Instance.SavedGreens < 10)
         {
             AdHiglightOn();
-        }else if (GameManager.Instance.SavedGreens >= _flasInt && _doFlash)
+        }else*/ if (GameManager.Instance.SavedGreens >= _flasInt && _doFlash)
         {
             _powerUpHighLight.SetActive(true);
         }
@@ -54,14 +54,14 @@ public class MainMenu : MenuBase
             _mapScreen.SetActive(true);
             _mainScreen.SetActive(false);
             _backButton.SetActive(true);
-            _storeButton.gameObject.SetActive(false);
+            //_storeButton.gameObject.SetActive(false);
         }
     }
 
     /// <summary>
     /// Highlights reward ad button 
     /// </summary>
-    public void AdHiglightOn()
+    /*public void AdHiglightOn()
     {
         if (Application.platform == RuntimePlatform.Android)
         {
@@ -87,15 +87,15 @@ public class MainMenu : MenuBase
                 _adHiglightChecker = true;
             }
         }
-    }
+    }*/
 
-    private void Update()
+    /*private void Update()
     {
         if(_adHiglightChecker)
         {
             AdHiglightOn();
         }
-    }
+    }*/
 
     /// <summary>
     /// Highlight button that opens upgrade screen when player has enough currency to buy one
@@ -131,7 +131,7 @@ public class MainMenu : MenuBase
         {
             _mainScreen.SetActive(false);
             _backButton.SetActive(false);
-            _adButton.gameObject.SetActive(false);
+            //_adButton.gameObject.SetActive(false);
             _upgradesButton.gameObject.SetActive(false);
             _collectedGreensObj.SetActive(false);
             _storyIntro.gameObject.SetActive(true);
@@ -144,7 +144,7 @@ public class MainMenu : MenuBase
             _mapScreen.SetActive(true);
             _mainScreen.SetActive(false);
             _backButton.SetActive(true);
-            _storeButton.gameObject.SetActive(false);
+            //_storeButton.gameObject.SetActive(false);
         }
     }
 
@@ -178,10 +178,10 @@ public class MainMenu : MenuBase
         {
             CloseUpgradesScreen();
         }
-        else if (_storeScreen.gameObject.activeSelf == true)
+        /*else if (_storeScreen.gameObject.activeSelf == true)
         {
             CloseStoreScreen();
-        }
+        }*/
         else if(_mapScreen.activeSelf == true)
         {
             CloseMap();
@@ -203,19 +203,19 @@ public class MainMenu : MenuBase
     {
         _mapScreen.SetActive(false);
         _mainScreen.SetActive(true);
-        _storeScreen.gameObject.SetActive(false);
+        //_storeScreen.gameObject.SetActive(false);
         _backButton.SetActive(false);
-        _storeButton.gameObject.SetActive(true);
+        //_storeButton.gameObject.SetActive(true);
     }
 
 
-    public void OpenStoreScreen()
+    /*public void OpenStoreScreen()
     {
         _storeScreen.gameObject.SetActive(true);
         _storeButton.SetActive(false);
-    }
+    }*/
 
-    public void CloseStoreScreen()
+    /*public void CloseStoreScreen()
     {
         _storeScreen.gameObject.SetActive(false);
         _storeButton.SetActive(true);
@@ -223,7 +223,7 @@ public class MainMenu : MenuBase
         {
             _backButton.SetActive(false);
         }
-    }
+    }*/
 
     public void OpenUpgradesScreen()
     {
@@ -235,7 +235,7 @@ public class MainMenu : MenuBase
         _upgradesScreen.gameObject.SetActive(true);
         _backButton.SetActive(true);
         _upgradesButton.SetActive(false);
-        _storeButton.SetActive(false);
+        //_storeButton.SetActive(false);
     }
 
     public void CloseUpgradesScreen()
@@ -247,7 +247,7 @@ public class MainMenu : MenuBase
         {
             _backButton.SetActive(false);
         }
-        _storeButton.SetActive(true);
+        //_storeButton.SetActive(true);
         if (_mapScreen.activeInHierarchy == false)
         {
             _backButton.SetActive(false);
@@ -264,14 +264,14 @@ public class MainMenu : MenuBase
         _creditsScreen.gameObject.SetActive(false);
     }
 
-    public void IWantToSeeAds()
+    /*public void IWantToSeeAds()
     {
         if (_adHighLight.activeInHierarchy)
         {
             _adHighLight.SetActive(false);
         }
-        GameManager.Instance._adHandler.DisplayVideoAd();
-    }
+        //GameManager.Instance._adHandler.DisplayVideoAd();
+    }*/
 
 
     

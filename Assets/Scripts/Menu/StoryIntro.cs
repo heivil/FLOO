@@ -27,7 +27,7 @@ public class StoryIntro : MonoBehaviour
 
     private void OnEnable()
     {
-        _mainMenu._adHighLight.SetActive(false);
+        //_mainMenu._adHighLight.SetActive(false);
         _mainMenu._powerUpHighLight.SetActive(false);
         _image.sprite = _storyImages[0];
         _currentImageIndex = 0;

@@ -1,4 +1,4 @@
-﻿using UnityEngine.UI;
+﻿/*using UnityEngine.UI;
 using UnityEngine;
 using UnityEngine.Purchasing;
 
@@ -22,7 +22,7 @@ public class StoreMenu : MonoBehaviour
     {
         if(product.definition.id == _noAds)
         {
-            GameManager.Instance._hasPaidForNoAds = true;
+           // GameManager.Instance._hasPaidForNoAds = true;
             GameManager.Instance.SaveData();
         }
         else if(product.definition.id == _100GreenBits)
@@ -38,3 +38,4 @@ public class StoreMenu : MonoBehaviour
         Debug.Log(product.definition.id + " failed because " + failReason);
     }
 }
+*/

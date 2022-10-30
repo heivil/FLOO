@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+﻿/*using UnityEngine;
 using UnityEngine.Advertisements;
 
 public class AdHandler : MonoBehaviour, IUnityAdsListener
@@ -82,7 +82,7 @@ public class AdHandler : MonoBehaviour, IUnityAdsListener
         {
             GameManager.Instance.SavedGreens += 20;
             GameManager.Instance._mainmenu.UpdateSavedGreens();
-            GameManager.Instance.AdCounter(0, true);
+            //GameManager.Instance.AdCounter(0, true);
             GameManager.Instance.SaveData();
             _audiomanager.MusicVolume(0.0f);
         }
@@ -117,4 +117,4 @@ public class AdHandler : MonoBehaviour, IUnityAdsListener
         // must have method because inherits interface
     }
   
-}
+}*/

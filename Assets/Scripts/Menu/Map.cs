@@ -301,28 +301,28 @@ public class Map : MenuBase
     {
         if (number <= GameManager.Instance.CompletedLevels)
         {
-            GameManager.Instance._showAdNumber = 5;
-            GameManager.Instance._restartCount = 0;
+            //GameManager.Instance._showAdNumber = 5;
+            //GameManager.Instance._restartCount = 0;
             GameManager.Instance.SaveData();
             SceneManager.LoadScene(number);
         }
         else if (GameManager.Instance.SavedGreens >= 10 && GameManager.Instance.CompletedLevels < number)
         {
             GameManager.Instance.SavedGreens -= 10;
-            GameManager.Instance._showAdNumber = 5;
-            GameManager.Instance._restartCount = 0;
+            //GameManager.Instance._showAdNumber = 5;
+            //GameManager.Instance._restartCount = 0;
             UpdateSavedGreens();
             GameManager.Instance.SaveData();
             SceneManager.LoadScene(number);
         }
-        else if(GameManager.Instance.CompletedLevels >= number - 1 && GameManager.Instance.SavedGreens < 10)
+        /*else if(GameManager.Instance.CompletedLevels >= number - 1 && GameManager.Instance.SavedGreens < 10)
         {
             if (_flashTimer._isRunning == false)
             {
                 StartFlash();
                 GameManager.Instance._mainmenu.AdHiglightOn();
             }
-        }
+        }*/
     }
 
     public void LoadExtraLevel(int number)
@@ -335,20 +335,20 @@ public class Map : MenuBase
             GameManager.Instance.SavedGreens -= 10;
             UpdateSavedGreens();
             GameManager.Instance.SaveData();
-            GameManager.Instance._showAdNumber = 5;
-            GameManager.Instance._restartCount = 0;
+            //GameManager.Instance._showAdNumber = 5;
+            //GameManager.Instance._restartCount = 0;
             SceneManager.LoadScene(80 + number);
         } 
         else if (GameManager.Instance._unlockedExtraLevels >= number && GameManager.Instance._beatenExtraLevels >= number)
         {
             GameManager.Instance.SaveData();
-            GameManager.Instance._showAdNumber = 5;
-            GameManager.Instance._restartCount = 0;
+            //GameManager.Instance._showAdNumber = 5;
+            //GameManager.Instance._restartCount = 0;
             SceneManager.LoadScene(80 + number);
         }
         else if (GameManager.Instance._unlockedExtraLevels >= number && GameManager.Instance._beatenExtraLevels < number)
         {
-            if (GameManager.Instance.SavedGreens < 10)
+            /*if (GameManager.Instance.SavedGreens < 10)
             {
                 if (_flashTimer._isRunning == false)
                 {
@@ -356,14 +356,14 @@ public class Map : MenuBase
                     GameManager.Instance._mainmenu.AdHiglightOn();
                 }
             }else
-            {
+            {*/
                 GameManager.Instance.SavedGreens -= 10;
                 UpdateSavedGreens();
                 GameManager.Instance.SaveData();
-                GameManager.Instance._showAdNumber = 5;
-                GameManager.Instance._restartCount = 0;
+                //GameManager.Instance._showAdNumber = 5;
+                //GameManager.Instance._restartCount = 0;
                 SceneManager.LoadScene(80 + number);
-            }
+            //}
         }
 
 

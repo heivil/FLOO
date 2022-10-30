@@ -20,15 +20,15 @@ public class GameManager : MonoBehaviour
     public bool _tripleJumpPaid, _lessDamagePaid, _moreGreenPaid, _noFlyConsumePaid, _lessImpactDamagePaid, _moreStartGreenPaid;
     public int _availableKeys, _unlockedExtraLevels, _beatenExtraLevels;
     public bool _hasRecievedEndReward = false;
-    public AdHandler _adHandler;
+    //public AdHandler _adHandler;
     public MainMenu _mainmenu;
-    private int _countTilAd = 0;
-    public bool _hasPaidForNoAds;
+    //private int _countTilAd = 0;
+    //public bool _hasPaidForNoAds;
     public bool _bumbleBee;
     public bool _startAtMapExtra;
     public bool _fingerPosOn;
-    [HideInInspector]
-    public int _restartCount, _showAdNumber;
+    //[HideInInspector]
+    //public int _restartCount, _showAdNumber;
 
     public static GameManager Instance
     {
@@ -160,7 +160,7 @@ public class GameManager : MonoBehaviour
         AudioManager = GetComponentInChildren<AudioManager>();
         DontDestroyOnLoad(this);
         _savePath = Application.persistentDataPath + "/savedGame.save";
-        _showAdNumber = 5;
+        //_showAdNumber = 5;
         LoadData();
     }
 
@@ -184,7 +184,7 @@ public class GameManager : MonoBehaviour
             _lessImpactDamage = LessImpactDamage,
             _moreStartGreen = MoreStartGreen,
             _hasRecievedEndReward = _hasRecievedEndReward,
-            _hasPaid = _hasPaidForNoAds,
+            //_hasPaid = _hasPaidForNoAds,
             _bumbleBee = _bumbleBee,
             _fingerPos = _fingerPosOn,
             _tripleJumpPaidS = _tripleJumpPaid,
@@ -234,7 +234,7 @@ public class GameManager : MonoBehaviour
             LessImpactDamage = save._lessImpactDamage;
             MoreStartGreen = save._moreStartGreen;
             _hasRecievedEndReward = save._hasRecievedEndReward;
-            _hasPaidForNoAds = save._hasPaid;
+            //_hasPaidForNoAds = save._hasPaid;
             _bumbleBee = save._bumbleBee;
             _fingerPosOn = save._fingerPos;
             _tripleJumpPaid = save._tripleJumpPaidS;
@@ -282,7 +282,7 @@ public class GameManager : MonoBehaviour
         print("Data deleted");
     }
 
-    public void AdCounter(int i, bool canZero)
+    /*public void AdCounter(int i, bool canZero)
     {
         if (_hasPaidForNoAds == false)
         {
@@ -304,5 +304,5 @@ public class GameManager : MonoBehaviour
                 _countTilAd = 0;
             }
         }
-    }
+    }*/
 }

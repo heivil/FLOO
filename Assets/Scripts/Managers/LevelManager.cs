@@ -215,7 +215,7 @@ public class LevelManager : MonoBehaviour
         if (SceneManager.GetActiveScene().buildIndex < 80)
         {
             GameManager.Instance._startAtMapExtra = false;
-            if(GameManager.Instance._showAdNumber > 5)
+            /*if(GameManager.Instance._showAdNumber > 5)
             {
                 if (GameManager.Instance._restartCount > 0)
                 {
@@ -227,7 +227,7 @@ public class LevelManager : MonoBehaviour
                 GameManager.Instance.AdCounter(1, true);
             }
             GameManager.Instance._restartCount = 0;
-            GameManager.Instance._showAdNumber = 5;
+            GameManager.Instance._showAdNumber = 5;*/
             SceneManager.LoadScene(_currentLevel + 1);
         } else if (SceneManager.GetActiveScene().buildIndex == 80)
         {

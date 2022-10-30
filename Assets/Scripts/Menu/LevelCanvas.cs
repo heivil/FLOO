@@ -49,18 +49,18 @@ public class LevelCanvas : MonoBehaviour
     public void Reload()
     {
         _pauseMenu.SetActive(false);
-        GameManager.Instance._restartCount++;
+        //GameManager.Instance._restartCount++;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         Time.timeScale = 1;
         GameManager.Instance._paused = false;
         GameManager.Instance.SavedGreens -= 10;
         GameManager.Instance.SaveData();
-        if(GameManager.Instance._restartCount >= GameManager.Instance._showAdNumber)
+        /*if(GameManager.Instance._restartCount >= GameManager.Instance._showAdNumber)
         {
             GameManager.Instance._restartCount = 0;
             GameManager.Instance._showAdNumber++;
-            GameManager.Instance.AdCounter(0, false);
-        }   
+            //GameManager.Instance.AdCounter(0, false);
+        }*/  
     }
 
     public void BackToMenu()
@@ -68,10 +68,11 @@ public class LevelCanvas : MonoBehaviour
         _pauseMenu.SetActive(false);
         Time.timeScale = 1;
         GameManager.Instance._paused = false;
-        if (GameManager.Instance._showAdNumber == 5)
+        /*if (GameManager.Instance._showAdNumber == 5)
         {
-            GameManager.Instance.AdCounter(1, true);
+            //GameManager.Instance.AdCounter(1, true);
         }
+        */
         GameManager.Instance.SaveData();
         SceneManager.LoadScene(0);
     }
